@@ -52,6 +52,4 @@ graph LR;
 		B2 --> B3;
 
     end
-
-	style null fill:#ffcc00
 ```
