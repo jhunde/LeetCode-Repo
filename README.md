@@ -27,10 +27,9 @@ graph LR;
 		end
 
 		 subgraph "Finding New Tail (k=2)" 
-		    A1 -."Move length - k - 1 = 5 - 2 - 1 = 2 steps".-> A3;
+		    A1; A3;
 	    end
     end
- 
 	
     subgraph "After Rotation (k=2)"
 	    subgraph "new head"
